@@ -1,0 +1,18 @@
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\bin\Debug\FootDAQ.exe.config
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\bin\Debug\FootDAQ.exe
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\bin\Debug\FootDAQ.pdb
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\obj\Debug\FootDAQ.csprojResolveAssemblyReference.cache
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\obj\Debug\FootDAQ.Form1.resources
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\obj\Debug\FootDAQ.Properties.Resources.resources
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\obj\Debug\FootDAQ.csproj.GenerateResource.Cache
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\obj\Debug\FootDAQ.exe
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\obj\Debug\FootDAQ.pdb
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\obj\Debug\FootDAQ.AboutBox1.resources
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\bin\Debug\FootDAQ.exe.manifest
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\bin\Debug\FootDAQ.application
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\obj\Debug\FootDAQ.exe.manifest
+c:\users\most\documents\visual studio 2013\Projects\FootDAQ\FootDAQ\obj\Debug\FootDAQ.application
+C:\Users\Most\Documents\Visual Studio 2013\Projects\FootDAQ\FootDAQ\obj\Debug\FootDAQ.TrustInfo.xml
+G:\Dropbox\c++\FootDAQ\FootDAQ\bin\Debug\FootDAQ.exe.config
+G:\Dropbox\c++\FootDAQ\FootDAQ\obj\Debug\FootDAQ.exe
+G:\Dropbox\c++\FootDAQ\FootDAQ\obj\Debug\FootDAQ.pdb
